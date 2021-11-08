@@ -1,3 +1,4 @@
 from django.contrib import admin
 
-# Register your models here.
+# Import  required model here
+# register our required modal name with admin site
